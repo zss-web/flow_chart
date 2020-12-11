@@ -157,13 +157,3 @@ const { rules } = require("eslint-plugin-prettier");
 //     };
 //   }
 // };
-module.exports = {
-    lintOnSave: false,
-    configureWebpack: {
-        devtool: 'source-map'
-      },
-     rules:{
-      test: /\.scss$/,
-      loaders: ['style', 'css', 'sass']
-    } 
-}
