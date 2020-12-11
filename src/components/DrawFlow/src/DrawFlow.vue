@@ -1,9 +1,4 @@
-<!--
-* @author 肖阳
-* @time 2020-9-10
-* @dec 生成流程绘制 基本节点(审批 抄送)组装逻辑
-*  组装
--->
+
 <script>
 import AddNodeBtn from "@/components/DrawFlow/src/components/AddNodeBtn";
 import RowFactory from "@/components/DrawFlow/src/components/DrawRow/FactoryRow";

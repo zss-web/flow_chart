@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 /**
- * @author 肖阳
+ * 
  * @time 2020-9-10
  * @dec 各种节点类
  */
